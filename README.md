@@ -17,8 +17,10 @@ _____________________________________________________________________________
     de esa forma ahora sé que realmente es lo que quiero para mi futuro. 💻
     👩‍💻
     
-    
     Para ello también agradezco al compañero @Juan520dlc por motivarme siempre
     a dar un mejor esfuerzo.
+    
+    
+    
 
     
