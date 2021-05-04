@@ -15,11 +15,10 @@ _____________________________________________________________________________
     personas, pero ahora sé que es imprecindible contar con ellos.
     El curso, y en especial el Módulo 1 me enseñaron más sobre la carrera y
     de esa forma ahora sé que realmente es lo que quiero para mi futuro. 💻
-    👩‍💻
-    
     Para ello también agradezco al compañero @Juan520dlc por motivarme siempre
     a dar un mejor esfuerzo.
-    
+    👩‍💻
+   
     
     
 
