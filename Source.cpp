@@ -1,8 +1,11 @@
 #include <iostream>
+#include <cstdlib>
 #include <string>
 
 using namespace std;
 
+void menu() {
+}
 int main()
 {
     /*
@@ -12,10 +15,23 @@ int main()
      * Consejo: El docente solo va a probar textos en minisculas y que solo tengan letras y espacios
      */
     cout << "Challenge #3" << endl;
-    string texto="";
+    string texto = "";
     cout << "Ingrese un texto cualquiera:" << endl;
     getline(cin, texto);
     cout << texto;
-    // Comience a programar desde aquí
+    int palabras = 1, cont = 0;
+    while (cont < strlen(lectura))
+    {
+
+        if (c = getc(enlace) != ' ') {
+
+            palabras++;
+            cont++;
+        }
+    }
+    cout << ("nnCantidad de caracteres %d", cont);
+    cout << ("nnCantidad de palabras %dn", palabras);
+
+    getch();
     return 0;
 }
